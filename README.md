@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @blushingchutney
-- 👀 I’m interested in old programming
-- 🌱 I’m currently learning old system
-- 💞️ I’m looking to collaborate on old videogames
-- 📫 How to reach me (coming soon...)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Rene Descartes is still alive
+- 👋 Hi, I'm @blushingchutney
+- 👀 I'm interested in video game programming
+- 🌱 I'm currently learning freebasic
+- 💞️ I'm looking to collaborate on video games
+- 📫 How to contact me @strugglewry@mastodon.social
+- 😄 Pronouns: El
+- ⚡ Fun fact: 237
 
 <!---
 blushingchutney/blushingchutney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
