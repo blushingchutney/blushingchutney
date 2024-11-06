@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning freebasic
 - 💞️ I'm looking to collaborate on video games
 - 📫 How to contact me @strugglewry@mastodon.social
-- 😄 Pronouns: El
+- 😄 Pronouns: He
 - ⚡ Fun fact: 237
 
 <!---
